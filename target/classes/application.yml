@@ -1,0 +1,56 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /
+spring:
+  datasource:
+    username: root
+    password: 1173389434xy
+    url: jdbc:mysql://127.0.0.1:3306/csdnmock
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+  elasticsearch:
+    rest:
+      cache:
+        enable: true
+  redis:
+    host: 192.168.44.199
+    port: 6379
+    password: 123456
+logging:
+  file:
+    path: D:\天津师范大学\code\MyGitRepository\springBoot2023_03_02\log
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+jieba:
+  mode: search
+dubbo:
+  application:
+#    应用名称
+    name: dubbo-provider
+  registry:
+#    注册中心nacos的地址
+#    address: nacos://192.168.44.199:8848
+    address: multicast://224.5.6.7:1234
+    timeout: 6000
+  protocol:
+    name: dubbo
+    port: 20880
+  scan:
+#    扫包路径
+    base-packages: com.neutech.service
+#  dict: classpath:dicts/jieba.dict.utf8
+#  hmm: classpath:dicts/hmm_model.utf8
+#  user: classpath:dicts/user.dict.utf8
+#  stop: classpath:dicts/stop_words.utf8
+#自定义参数
+config:
+  page:
+    pageSize: 8
+  elasticsearch:
+    index: post_index
+    hostname: 192.168.44.199
+    port: 9200
+    schema: http
