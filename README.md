@@ -18,11 +18,11 @@
 
 3.登陆界面
 
-![用户登陆.jpg](../../../Typora文档/imgs/fNzxLeuj-16919235467264.jpg)
+![用户登陆.jpg](https://img1.imgtp.com/2023/08/13/fNzxLeuj.jpg)
 
-评论界面
+4.评论界面
 
-![点赞收藏评论效果.jpg](../../../Typora文档/imgs/cz3VCtNO.jpg)
+![点赞收藏评论效果.jpg](https://img1.imgtp.com/2023/08/13/cz3VCtNO.jpg)
 
 
 
