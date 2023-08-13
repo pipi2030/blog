@@ -1,0 +1,38 @@
+server:
+  port: 8002
+dubbo:
+  application:
+    name: dubbo-es #应用名称
+  registry:
+    address: nacos://192.168.44.199:8848 #注册中心nacos的地址
+    timeout: 6000
+  protocol:
+    name: dubbo
+    port: 20882
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.44.199:8848
+        namespace: csdn_mock
+  elasticsearch:
+    rest:
+      cache:
+        enable: true
+  redis:
+    host: 192.168.44.199
+    port: 6379
+    password: 123456
+#自定义参数
+es:
+  service:
+    version: 1.0
+    name: DBService
+config:
+  page:
+    pageSize: 8
+  elasticsearch:
+    index: post_index
+    hostname: 192.168.44.199
+    port: 9200
+    schema: http

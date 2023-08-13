@@ -1,0 +1,93 @@
+{
+  "id": "4022513",
+  "name": "csdn_mock",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "77828",
+      "name": "收藏",
+      "font_class": "shoucang1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "806190",
+      "name": "已收藏",
+      "font_class": "yishoucang",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "6049780",
+      "name": "未收藏2",
+      "font_class": "weishoucang",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "77697",
+      "name": "点赞",
+      "font_class": "dianzan1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4406945",
+      "name": "已点赞",
+      "font_class": "yidianzan",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "6334468",
+      "name": "点赞",
+      "font_class": "dianzan2",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "6548553",
+      "name": "已点赞",
+      "font_class": "yidianzan1",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "10156214",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "4510303",
+      "name": "收藏3",
+      "font_class": "shoucang",
+      "unicode": "e906",
+      "unicode_decimal": 59654
+    },
+    {
+      "icon_id": "18171148",
+      "name": "交换,双箭头,平行",
+      "font_class": "exchange-full",
+      "unicode": "ea19",
+      "unicode_decimal": 59929
+    },
+    {
+      "icon_id": "2056679",
+      "name": "原创",
+      "font_class": "yuanchuang1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "6337455",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "ec7f",
+      "unicode_decimal": 60543
+    }
+  ]
+}

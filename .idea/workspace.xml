@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb6be8a5-54ce-4748-bf4c-2ea96ecff581" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/BootStater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/config/ElasticSearchClientConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/config/PageConfiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/config/RedisCacheConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/controller/CommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/controller/PostController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/entity/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/entity/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/mapper/CommentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/mapper/PostMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/ESService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/PostService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/RedisService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/impl/CommentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/impl/ESServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/impl/PostServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/impl/RedisServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/utils/JiebaUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neutech/vo/PostVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/neutech/mapper/CommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/neutech/mapper/PostMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/energe.dict.utf8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/about.1baa817e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/about.e4ee0949.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/app.6eb0394b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/app.8cd68d3a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/chunk-vendors.eaf0ca3c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/element-icons.f1a45d74.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/element-icons.ff18efd1.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontello.3f1fdcf0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontello.6c502925.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontello.6ec73abf.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/fontello.d34249f0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/about.6b441975.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/about.6b441975.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/about.7fb97f9d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/about.7fb97f9d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app.38dc1208.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app.38dc1208.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app.864afb90.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app.864afb90.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/chunk-vendors.ef154791.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/chunk-vendors.ef154791.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/neutech/elasticsearch/ElasticsearchApiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/neutech/entity/PostVoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/neutech/mapper/CommentMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/neutech/mapper/UserMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/neutech/mapper/postMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/neutech/service/PostServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/BootStater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/config/ElasticSearchClientConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/config/ElasticSearchClientConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/config/PageConfiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/config/RedisCacheConfig$RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/config/RedisCacheConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/controller/CommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/controller/PostController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/entity/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/entity/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/mapper/CommentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/mapper/CommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/mapper/PostMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/mapper/PostMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/CommentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/ESService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/PostService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/RedisService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/impl/CommentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/impl/ESServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/impl/PostServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/impl/RedisServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/utils/JiebaUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neutech/vo/PostVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/energe.dict.utf8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/about.1baa817e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/about.e4ee0949.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/app.6eb0394b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/app.8cd68d3a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/chunk-vendors.eaf0ca3c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/element-icons.f1a45d74.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/element-icons.ff18efd1.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/fontello.3f1fdcf0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/fontello.6c502925.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/fonts/fontello.6ec73abf.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/img/fontello.d34249f0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/about.6b441975.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/about.6b441975.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/about.7fb97f9d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/about.7fb97f9d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/app.38dc1208.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/app.38dc1208.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/app.864afb90.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/app.864afb90.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/chunk-vendors.ef154791.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/chunk-vendors.ef154791.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/neutech/elasticsearch/ElasticsearchApiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/neutech/entity/PostVoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/neutech/mapper/CommentMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/neutech/mapper/UserMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/neutech/mapper/postMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/neutech/service/PostServiceTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../progrom/java_install/maven" />
+        <option name="userSettingsFile" value="D:\progrom\java_install\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TsxwBnXwUyUySFygKnlzFzwu48" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MicroServices" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb6be8a5-54ce-4748-bf4c-2ea96ecff581" name="Default Changelist" comment="" />
+      <created>1691845829649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691845829649</updated>
+      <workItem from="1691845832477" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

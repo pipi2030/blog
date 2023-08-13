@@ -1,0 +1,40 @@
+server:
+  port: 8001
+dubbo:
+  application:
+    #    应用名称
+    name: dubbo-db
+  registry:
+    #    注册中心nacos的地址
+    address: nacos://192.168.44.199:8848
+#    address: multicast://224.5.6.7:1234
+    timeout: 6000
+  protocol:
+    name: dubbo
+    port: 20881
+  scan:
+    #    扫包路径
+    base-packages: com.neutech.service
+#nacos:
+#  config:
+#    secret-key: 192.168.44.199:8848
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.44.199:8848
+        namespace: csdn_mock
+  datasource:
+    username: root
+    password: 1173389434xy
+    url: jdbc:mysql://127.0.0.1:3306/csdnmock
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  redis:
+    host: 192.168.44.199
+    port: 6379
+    password: 123456
+#自定义参数
+db:
+  service:
+    version: 1.0
+    name: DBService
